@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d0f4ea0e477b6110a2417d45d36d43f0" label="Cab Details" max_length="40" name="x_92457_cab_alloca_cab_details" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element display="true" label="Number" max_length="40" name="number" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number 2" max_length="40" name="number_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Vehicle Type" max_length="40" name="vehicle_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Mini" value="mini"/>
+                <element inactive_on_update="false" label="SUV" value="suv"/>
+            </choice>
+        </element>
+    </element>
+</database>
