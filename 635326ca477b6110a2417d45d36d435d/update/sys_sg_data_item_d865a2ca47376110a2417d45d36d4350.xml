@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Cab Allocation Cab Details</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 15:11:14</sys_created_on>
+        <sys_id>d865a2ca47376110a2417d45d36d4350</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cab Allocation Cab Details</sys_name>
+        <sys_package display_value="Cab Allocation" source="x_92457_cab_alloca">635326ca477b6110a2417d45d36d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cab Allocation">635326ca477b6110a2417d45d36d435d</sys_scope>
+        <sys_update_name>sys_sg_data_item_d865a2ca47376110a2417d45d36d4350</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 15:11:14</sys_updated_on>
+        <table>x_92457_cab_alloca_cab_details</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=d865a2ca47376110a2417d45d36d4350"/>
+</record_update>

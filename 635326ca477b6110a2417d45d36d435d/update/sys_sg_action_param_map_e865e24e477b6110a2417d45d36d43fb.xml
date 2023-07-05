@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Cab Details)">a465e24e477b6110a2417d45d36d43f9</button>
+        <item_parameter display_value="Cab Details name">2065e24e477b6110a2417d45d36d43f8</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-04 15:11:15</sys_created_on>
+        <sys_id>e865e24e477b6110a2417d45d36d43fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2065e24e477b6110a2417d45d36d43f8</sys_name>
+        <sys_package display_value="Cab Allocation" source="x_92457_cab_alloca">635326ca477b6110a2417d45d36d435d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cab Allocation">635326ca477b6110a2417d45d36d435d</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_e865e24e477b6110a2417d45d36d43fb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-04 15:11:15</sys_updated_on>
+        <ui_parameter display_value="Name">ec65e24e477b6110a2417d45d36d43f9</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
