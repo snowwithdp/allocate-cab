@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Cab Providers" language="en" table="x_92457_cab_alloca_cab_providers">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Cab Providers</label>
+            <language>en</language>
+            <name>x_92457_cab_alloca_cab_providers</name>
+            <plural>Cab Providers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>abel.tuter</sys_created_by>
+            <sys_created_on>2023-07-05 10:28:52</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Cab Providers</sys_name>
+            <sys_package display_value="Cab Allocation" source="x_92457_cab_alloca">635326ca477b6110a2417d45d36d435d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cab Allocation">635326ca477b6110a2417d45d36d435d</sys_scope>
+            <sys_update_name>sys_documentation_x_92457_cab_alloca_cab_providers__en</sys_update_name>
+            <sys_updated_by>abel.tuter</sys_updated_by>
+            <sys_updated_on>2023-07-05 10:28:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
